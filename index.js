@@ -1,7 +1,9 @@
 function isPalindrome(word) {
   // Write your algorithm here
-}
 
+const rev = reverse(word)
+return word = rev
+}
 /* 
   Add your pseudocode here
 */
